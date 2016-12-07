@@ -1,0 +1,5 @@
+item.examplemod_CustomItem.name=The Destructor
+tile.examplemod_CustomBlock.name=Peridot Ore
+item.examplemod_CustomAmmo.name=Boomshot
+item.examplemod_Peridot.name=Peridot
+tile.examplemod_CoolGrass.name=Super Grass

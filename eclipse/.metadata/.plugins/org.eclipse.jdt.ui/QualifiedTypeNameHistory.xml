@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javafx.geometry.Side"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.passive.EntityMooshroom"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.BiomeManager"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.BiomeManager.BiomeType"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="com.camp.block.Overwrite"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Items"/>
+</qualifiedTypeNameHistroy>
